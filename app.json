@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "scouts-pro",
+    "slug": "scouts-pro",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "expo-bare-typescript"
+}
